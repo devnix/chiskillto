@@ -1,0 +1,14 @@
+{
+  "name": "chiskillto",
+  "owner": {
+    "name": "devnix",
+    "email": "devnix.code@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "chiskillto",
+      "source": ".",
+      "description": "Modo ilustre total: Claude habla como Chiquito de la Calzada. Pecaorr, fistro, hasta luego Lucas."
+    }
+  ]
+}

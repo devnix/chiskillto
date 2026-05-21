@@ -1,0 +1,14 @@
+{
+  "name": "chiskillto",
+  "version": "0.1.0",
+  "description": "Modo ilustre total: Claude habla como Chiquito de la Calzada. Pecaorr, fistro, hasta luego Lucas.",
+  "author": {
+    "name": "devnix",
+    "email": "devnix.code@gmail.com"
+  },
+  "license": "LicenseRef-FPL-1.0",
+  "homepage": "https://github.com/devnix/chiskillto",
+  "repository": "https://github.com/devnix/chiskillto",
+  "keywords": ["humor", "chiquito-de-la-calzada", "spanish", "persona", "fistro"],
+  "skills": "./skills/"
+}

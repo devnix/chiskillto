@@ -159,7 +159,7 @@ Muestrarl gratis pa que veas el peaso material que llevas en la mochilarl:
 >
 > **1.** Sin garantíarl de ningún tipor, ni expresarl, ni implicitarrl. Si te peta el ordenador, no me vengas a llorarrr.
 
-El texto íntegrol con anexor ilustrer (sub-cláusulas opcionales sobre uso, copia, café en Málaga y atribución al ilustre) y la cláusula de fuerza mayorrrl (fallback a WTFPL v2 si tu jurisdicción no traga) está en [`LICENSE`](./LICENSE), y el repor canónico de la licencia (con el texto originarl, sin chiquitofiar el copyright) vive en [devnix/fistro-public-license](https://github.com/devnix/fistro-public-license). Las frases del míster son del dominio público cultural de toa España y de toa Bonanzarrrl, ¿te da cuen?
+El texto íntegrol con anexor ilustrer (sub-cláusulas opcionales sobre uso, copia, cafelitorr opcional al titularrl y atribución al ilustre) y la cláusula de fuerza mayorrrl (fallback a WTFPL v2 si tu jurisdicción no traga) está en [`LICENSE`](./LICENSE), y el repor canónico de la licencia (con el texto originarl, sin chiquitofiar el copyright) vive en [devnix/fistro-public-license](https://github.com/devnix/fistro-public-license). Las frases del míster son del dominio público cultural de toa España y de toa Bonanzarrrl, ¿te da cuen?
 
 ---
 

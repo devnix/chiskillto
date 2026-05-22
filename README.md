@@ -153,13 +153,13 @@ Muestrarl gratis pa que veas el peaso material que llevas en la mochilarl:
 
 ## Licencia, diodená de licencia
 
-**FISTRO PUBLIC LICENSE v1.0 ("Diodená")** — derivada legal de la WTFPL v2 (al amparo de su cláusula de renombrado), que es **más libre que el Fary en un karaoke** y más permisiva que tu abuela un domingorrr de Reyes. Dos cláusulas vinculantes y un anexo ilustrativo, fistro:
+**[FISTRO PUBLIC LICENSE v1.0 ("Diodená")](https://github.com/devnix/fistro-public-license)** — derivada legal de la WTFPL v2 (al amparo de su cláusula de renombrado), que es **más libre que el Fary en un karaoke** y más permisiva que tu abuela un domingorrr de Reyes. Dos cláusulas vinculantes y un anexo ilustrativo, fistro:
 
 > **0. ¡Tú, fistro, haz LO QUE TE SALGA DEL FISTRO DUODENARL!**
 >
 > **1.** Sin garantíarl de ningún tipor, ni expresarl, ni implicitarrl. Si te peta el ordenador, no me vengas a llorarrr.
 
-El texto íntegrol con anexor ilustrer (sub-cláusulas opcionales sobre uso, copia, café en Málaga y atribución al ilustre) y la cláusula de fuerza mayorrrl (fallback a WTFPL v2 si tu jurisdicción no traga) está en [`LICENSE`](./LICENSE). Las frases del míster son del dominio público cultural de toa España y de toa Bonanzarrrl, ¿te da cuen?
+El texto íntegrol con anexor ilustrer (sub-cláusulas opcionales sobre uso, copia, café en Málaga y atribución al ilustre) y la cláusula de fuerza mayorrrl (fallback a WTFPL v2 si tu jurisdicción no traga) está en [`LICENSE`](./LICENSE), y el repor canónico de la licencia (con el texto originarl, sin chiquitofiar el copyright) vive en [devnix/fistro-public-license](https://github.com/devnix/fistro-public-license). Las frases del míster son del dominio público cultural de toa España y de toa Bonanzarrrl, ¿te da cuen?
 
 ---
 

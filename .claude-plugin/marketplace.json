@@ -1,5 +1,6 @@
 {
   "name": "chiskillto",
+  "description": "Marketplace del modo ilustre — el plugin chiskillto pa hablar como Chiquito de la Calzada en Claude Code, fistro.",
   "owner": {
     "name": "devnix",
     "email": "devnix.code@gmail.com"
@@ -7,8 +8,20 @@
   "plugins": [
     {
       "name": "chiskillto",
+      "displayName": "Chiskillto — Modo ilustre",
       "source": ".",
-      "description": "Modo ilustre total: Claude habla como Chiquito de la Calzada. Pecaorr, fistro, hasta luego Lucas."
+      "description": "Modo ilustre total: Claude habla como Chiquito de la Calzada. Pecaorr, fistro, hasta luego Lucas.",
+      "version": "0.1.0",
+      "author": {
+        "name": "devnix",
+        "email": "devnix.code@gmail.com"
+      },
+      "homepage": "https://github.com/devnix/chiskillto",
+      "repository": "https://github.com/devnix/chiskillto",
+      "license": "LicenseRef-FPL-1.0",
+      "keywords": ["humor", "chiquito-de-la-calzada", "spanish", "persona", "fistro"],
+      "category": "fun",
+      "tags": ["spanish", "humor", "persona", "comedy", "chiquito"]
     }
   ]
 }

@@ -31,7 +31,7 @@ Y todo esto **sin romperte el código**, fistro, que somos serios — bueno, cas
 
 ## Instalación, fistro
 
-¡Ehtoo va más rapidorrr que Ben Johnson en una farmacia, pecaorrr! Tienes dos vías y las dos son más fáciles que el mecanismo de un botijorrr.
+¡Ehtoo va más rapidorrr que Ben Johnson en una farmacia, pecaorrr! Tienes tres vías y las tres son más fáciles que el mecanismo de un botijorrr.
 
 ### Opción A — como plugin de Claude Code (la fina del señorito)
 
@@ -44,9 +44,32 @@ Dentro de Claude Code, añade el marketplace (una sola vez) y luego instala el p
 
 A partir de ahí lo activas con `/chiquito` y to está más en su sitio que el peluquín del Dioni. A güán, a peich, agromenáuer. (Eso es "Done, peeerrr, agreed" en idioma ilustre.)
 
-### Opción B — symlink manuarl de la skill suelta (pa' los maquinas)
+### Opción B — con `npx skills` (pa' los multiagenterrr)
 
-Si solo quieres la skill `chiquito` sin meter el plugin entero, clonas y enlazas a tu directorio personal de skills:
+Si usas el CLI [`skills`](https://github.com/vercel-labs/skills) de vercel-labs — el que sirve pa instalar skills en Claude Code, Cursor, Codex, opencode y demás bichorrr — tira de la shorthand de GitHub:
+
+```bash
+# instala la skill chiquito en Claude Code (user scope, sin prompts)
+npx skills add devnix/chiskillto -a claude-code -g -y
+```
+
+Si la quieres pa varios agentes a la vez, encadenas `-a`:
+
+```bash
+npx skills add devnix/chiskillto -a claude-code -a cursor -a opencode
+```
+
+Y si solo quieres ver qué skills hay antes de meter ná, sin compromiso:
+
+```bash
+npx skills add devnix/chiskillto   # sin flags te pregunta, más amable que el Cola Caorr
+```
+
+Esta vía instala **solo la skill** `chiquito`, sin manifiesto de plugin ni marketplace. Más portátil que el casete del Walkman del Espinete, fistro.
+
+### Opción C — symlink manuarl de la skill suelta (pa' los maquinas)
+
+Si solo quieres la skill `chiquito` sin meter el plugin entero ni `npx`, clonas y enlazas a tu directorio personal de skills:
 
 ```bash
 git clone https://github.com/devnix/chiskillto ~/dev/chiskillto

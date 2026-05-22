@@ -9,7 +9,10 @@
     {
       "name": "chiskillto",
       "displayName": "Chiskillto — Modo ilustre",
-      "source": ".",
+      "source": {
+        "source": "github",
+        "repo": "devnix/chiskillto"
+      },
       "description": "Modo ilustre total: Claude habla como Chiquito de la Calzada. Pecaorr, fistro, hasta luego Lucas.",
       "version": "0.1.0",
       "author": {
